@@ -1,2 +1,1 @@
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MFXHUBI/Dvs/refs/heads/main/lua"))()
